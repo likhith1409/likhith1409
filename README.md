@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhith1409&label=Profile%20views&color=0e75b6&style=flat" alt="likhith1409" /> </p>
 
-- 🔭 I’m currently working on **Python API's and Machine Learning Models**
+- 🔭 I’m currently working on **Python API's and Machine Learning Models, Flutter Apps**
 
-- 🌱 I’m currently learning **Python, Machine Learning, AWS**
+- 🌱 I’m currently learning **Python, Machine Learning, AWS, Flutter**
 
 - ⚡ Fun fact **I am Funny**
 
